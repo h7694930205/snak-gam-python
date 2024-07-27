@@ -1,1 +1,1 @@
-# snak-gam-python
+# snake-game-python
